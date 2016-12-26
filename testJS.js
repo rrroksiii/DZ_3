@@ -1,5 +1,6 @@
-var firstAnswer;
+
 document.getElementById("resbut").onclick = function(){
+   var firstAnswer;
    var secondAnswer;
    var thirdAnswer;
    var fourthAnswer = 0;
